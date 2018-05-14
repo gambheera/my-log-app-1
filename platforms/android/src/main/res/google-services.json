@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "509294087816",
+    "firebase_url": "https://nurse-logbook-1.firebaseio.com",
+    "project_id": "nurse-logbook-1",
+    "storage_bucket": "nurse-logbook-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509294087816:android:14761ebd3d9d9e37",
+        "android_client_info": {
+          "package_name": "com.logbook.srilankannurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509294087816-dmuao43p7dap2p43bseetsiqafvlluno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYryFQcmAm4_XBqtnz23GtiXf2w7T2Awk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
